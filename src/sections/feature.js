@@ -44,9 +44,7 @@ const data = [
 ];
 
 export default function Feature() {
-  return (
-   <h1>Feature</h1>
-  );
+  return <h1>Feature</h1>;
 }
 
 const styles = {
