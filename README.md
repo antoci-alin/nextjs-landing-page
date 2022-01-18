@@ -1,11 +1,11 @@
-## Getting Started
+## Landing page example with Next.js
 
-Install the dependencies and run the development server
+### Tags: next.js, react, theme-ui
 
-```bash
-npm install
-npm run dev
-# or
-yarn
-yarn dev
-```
+## How it looks?
+
+![screenshot](https://nimb.ws/LrewMf)
+
+## Credits
+
+https://startuplanding.redq.io/#demo
